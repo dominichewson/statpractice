@@ -1,6 +1,7 @@
 #' Calculate the sample mean
 #'
-#' Calculates the arithmetic mean of a numeric vector.
+#' Calculates the arithmetic mean of a numeric vector using the
+#' standard definition of the sample mean.
 #'
 #' @param x A numeric vector.
 #'
